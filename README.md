@@ -3,7 +3,7 @@ El siguiente proyecto cumple ciertas funcionalidades, utilizando la API https://
 
 # Pokémon API
 
-Este proyecto es una API para gestionar Pokémon, implementada en dos tecnologías: **Ruby on Rails** y **Node.js**. La API permite realizar operaciones básicas como listar Pokémon, capturarlos, liberarlos, y gestionar un registro de Pokémon capturados.
+Este proyecto es una API para gestionar Pokémon, implementada en dos tecnologías: **Ruby on Rails**. La API permite realizar operaciones básicas como listar Pokémon, capturarlos, liberarlos, y gestionar un registro de Pokémon capturados.
 
 ## Estructura de Ramas
 
