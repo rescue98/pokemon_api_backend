@@ -88,3 +88,16 @@ La última numeración en el Pokémon 150 indica que la importación fue exitosa
 
 ![Prueba2_Post](https://github.com/rescue98/pokemon_p/blob/develop/imagenes/Prueba2_Post.png?raw=true)
 
+### Probar Menú y Localhost
+
+## Endpoints de la API de Pokémon
+
+Para probar el código en localhost, ruby ocupa el puerto 3000, por lo que al entrar podras probar las funcionalidades a través de los siguientes endpoints:
+
+#Listar pokemones: /pokemons
+#Capturar pokemón usando ID: /pokemons/:id/capture
+#Pokemon capturado: /pokemons/captured
+#Liberar pokemon: /pokemons/:id/release
+#Importar pokemon: /pokemons/import
+
+
