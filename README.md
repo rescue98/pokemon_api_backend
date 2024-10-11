@@ -62,26 +62,29 @@ Este repositorio sigue la estrategia de **Git Flow**, donde las funcionalidades 
 
   ## Imágenes
 
+## Imágenes
+
 ### 1. Prueba en localhost
 
 Esta imagen muestra que el código se puede ver correctamente en `http://localhost:3000`.
 
-![Prueba_localhost](imagenes/Prueba_localhost.png)
+![Prueba_localhost](https://github.com/rescue98/pokemon_p/blob/develop/imagenes/Prueba_localhost.png?raw=true)
 
 ### 2. Listado de Pokémon
 
 Aquí se puede ver que la lista de Pokémon se importó correctamente, destacada en amarillo.
 
-![Prueba1_ListarPokemones](imagenes/Prueba1_ListarPokemones.png)
+![Prueba1_ListarPokemones](https://github.com/rescue98/pokemon_p/blob/develop/imagenes/Prueba1_ListarPokemones.png?raw=true)
 
 ### 3. Inicio de la Importación de Pokémon
 
 Esta imagen muestra el inicio de la importación de Pokémon.
 
-![Prueba1_Post](imagenes/Prueba1_Post.png)
+![Prueba1_Post](https://github.com/rescue98/pokemon_p/blob/develop/imagenes/Prueba1_Post.png?raw=true)
 
 ### 4. Verificación de la Importación
 
 La última numeración en el Pokémon 150 indica que la importación fue exitosa.
 
-![Prueba2_Post](imagenes/Prueba2_Post.png)
+![Prueba2_Post](https://github.com/rescue98/pokemon_p/blob/develop/imagenes/Prueba2_Post.png?raw=true)
+
