@@ -95,9 +95,20 @@ La última numeración en el Pokémon 150 indica que la importación fue exitosa
 Para probar el código en localhost, ruby ocupa el puerto 3000, por lo que al entrar podras probar las funcionalidades a través de los siguientes endpoints:
 
 #Listar pokemones: /pokemons
+
 #Capturar pokemón usando ID: /pokemons/:id/capture
+
 #Pokemon capturado: /pokemons/captured
+
 #Liberar pokemon: /pokemons/:id/release
+
 #Importar pokemon: /pokemons/import
 
+###Probar en terminal o CMD
+
+Para probar el código con el menú interactivo a través de la terminal, se tiene que poner el siguiente comando:
+
+run run_menu rb
+
+Este File se hizo con el objetivo de que funcione netamente para correr el menú y así no causar interferencia en el resto de código.
 
