@@ -13,9 +13,10 @@ Para clonar el repositorio en tu máquina local, sigue estos pasos:
 
 1. **Abre la Terminal o CMD**.
 2. **Ejecuta el siguiente comando** para clonar el repositorio:
-   git clone https://github.com/tu_usuario/pokemon-api-nodejs.git
-3. cd pokemon-api-backend
-4. git checkout develop
+   git clone https://github.com/tu_usuario/pokemon_api_backend.git
+3. git branch -a -> verificar las ramas disponibles
+4. cd "carpeta proyecto"
+5. git checkout develop
 
 Con esto, ya puedes ver el código y realizar cambios si así lo requiere.
 
